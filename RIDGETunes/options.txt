@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------------
+1-Exit Program.
+2-Edit your favourite artist.
+3-Edit your favourite genre.
+4-Display an alphebetically ordered list of all songs in the song library.
+5-Create a playlist.
+6-View a saved playlist.
+7-Delete a saved playlist.
+8-Generate a new playlist that lasts no longer than the time limit you specify.
+9-Generate a new playlist that contains (up to) 5 songs of the genre you select.
+10-Create a text file filled with the songs of an artist you specify.
+11-Display a list of genres with the average song length for that genre (admin only).
+-------------------------------------------------------------------------------------
